@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Markus, a full-time .NET backend developer (and tester) 👨‍💻 working since 2022 🚀</div>  
+### <div align="center">I'm Markus, a full-time .NET backend developer and testing fanatic 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [OpenANV](https://github.com/DaWeba02/OpenANV)  
