@@ -66,9 +66,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -76,6 +73,10 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://azure.microsoft.com/de-de/products/devops" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="Azure DevOps" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
+
+
 
 ### OS & Virtualization
 <div align="center">  
