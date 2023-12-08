@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Markus, a full-time .NET backend developer and QA manager 👨‍💻 working since 2022 🚀</div>  
+### <div align="center">I'm Markus, a full-time .NET backend developer (and tester) 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [OpenANV](https://github.com/DaWeba02/OpenANV)  
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to QA engineering and testing in .NET  
   
 
-- ⚡ Fun fact: No fun fact here... xddd  
+- ⚡ Fun fact: My instagram FYP is broken :( 
   
 
 <br/>  
