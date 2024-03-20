@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [OpenANV](https://github.com/DaWeba02/OpenANV)  
   
 
-- 🌱 I’m currently learning Electron, QA testing methods and Python
+- 🌱 I’m currently learning Avalonia.XPF and Python
   
 
 - ❓ Ask me about anything related to QA engineering and testing in .NET  
