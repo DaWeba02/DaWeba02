@@ -63,7 +63,6 @@
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
 
@@ -115,7 +114,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=julatfdrnqkxuxv79nnrq4pfp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=julatfdrnqkxuxv79nnrq4pfp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" /></div>  
 
 <br/>  
 
