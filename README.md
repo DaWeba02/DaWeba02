@@ -61,11 +61,4 @@ Currently, I am expanding my skills in **modern .NET technologies and Avalonia U
 
 ---
 
-## Connect
-
-- GitHub: https://github.com/DaWeba02  
-- Stack Overflow: https://stackoverflow.com/users/EVOmage  
-
----
-
 > _"Quality is not an act, it is a habit."_
