@@ -36,12 +36,9 @@ Currently, I am expanding my skills in **modern .NET technologies and Avalonia U
 ### DevOps & Tooling
 - Git, GitHub, GitLab  
 - Azure DevOps  
-- Docker  
-- PowerShell  
 
 ### Cloud & Platforms
 - Microsoft Azure  
-- AWS  
 - Linux  
 
 ---
