@@ -1,8 +1,8 @@
-# Markus – Software Developer (.NET) 👨‍💻
+# Markus – Senior Developer (.NET) 👨‍💻
 
 ## About Me
 
-I am a **software engineer** with a strong focus on **.NET backend development, software quality, and automation**.
+I am a **senior developer** with a strong focus on **.NET backend development, software quality, and automation**.
 
 Since 2022, I have been working full-time in professional software development, contributing to **backend systems, test-oriented development, and automation solutions** in agile environments.  
 I value **clean architecture, maintainability, and reliability** and enjoy translating technical requirements into robust implementations.
